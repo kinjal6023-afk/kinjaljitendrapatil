@@ -5,14 +5,13 @@
 📍 Finance-focused analytics professional in training  
 
 ### 🔹 About Me
-I have a strong interest in finance and use data analytics to support financial and business decision-making. 
-My projects focus on analyzing data, building financial models, and deriving insights that support strategy and performance.
+I’m an MBA Business Analytics candidate with a finance background, using data analytics to support financial and business decision-making. My work focuses on analyzing data, building financial and analytical models, and delivering insights that support strategy and performance.
 
 ### 🔹 Skills
-- Data Analysis: Excel, SQL, Python (basics)
+- Data Analysis: Excel, SQL, Python (Jupyter)
 - Financial Analysis: Financial Modeling, Ratios, Forecasting
 - Analytics: Regression, Classification, Time Series
-- Tools: Jupyter Notebook, Power BI, GitHub
+- Tools: Jupyter Notebook, Power BI, GitHub, SQL
 
 ### 🔹 What You'll Find Here
 - Finance and business analytics projects
