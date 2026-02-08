@@ -18,3 +18,4 @@ My projects focus on analyzing data, building financial models, and deriving ins
 - Finance and business analytics projects
 - Data-driven case studies
 - Applied analytics projects from my MBA coursework
+
